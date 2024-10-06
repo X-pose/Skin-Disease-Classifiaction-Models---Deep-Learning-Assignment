@@ -1,1 +1,1 @@
-# fabric-defect-detection-models---Deep-Learning-Assignment
+# Skin-Disease-Classification-models---Deep-Learning-Assignment
